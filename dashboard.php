@@ -61,7 +61,7 @@
 <header>
     <div class="header-left">
         <h1>demObywatel | Dashboard</h1>
-        <p>System bez logowania</p>
+        <p>Dostęp bez logowania</p>
     </div>
     <div class="header-right">
     </div>
